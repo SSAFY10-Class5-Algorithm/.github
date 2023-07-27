@@ -3,7 +3,7 @@ SSAFY 10기 5반 알고리즘 및 CS학습
 
 
 
-
+팀원에 추가 안 된 분 저한테 말해주세요~
 ## Team
 
 | [![peppermintt0504](https://avatars.githubusercontent.com/u/73277351)](https://github.com/peppermintt0504) | [![JehunYoo](https://avatars.githubusercontent.com/u/52781854)](https://github.com/JehunYoo)   | [![chomchom96](https://avatars.githubusercontent.com/u/112466460)](https://github.com/chomchom96) | [![Woonggss](https://avatars.githubusercontent.com/u/88834958)](https://github.com/Woonggss) |  [![smink112](https://avatars.githubusercontent.com/u/95391402)](https://github.com/smink112) |  [![minhouu](https://avatars.githubusercontent.com/u/109497339)](https://github.com/minhouu) |  [![dohakim0205](https://avatars.githubusercontent.com/u/127382101)](https://github.com/dohakim0205) |
