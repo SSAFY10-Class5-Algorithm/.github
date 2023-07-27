@@ -2,6 +2,9 @@
 SSAFY 10기 5반 알고리즘 및 CS학습
 
 
+[[Git] Git 기본 사용법](https://github.com/SSAFY10-Class5-Algorithm/BOJ/issues/8)
+
+
 
 팀원에 추가 안 된 분 저한테 말해주세요~
 ## Team
